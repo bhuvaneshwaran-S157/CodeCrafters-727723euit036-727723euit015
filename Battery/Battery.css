@@ -1,0 +1,19 @@
+.whole{
+    background-color: rgb(153, 155, 156);
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+
+}
+.white{
+    width: 20px;
+    height: 10px;
+    align-items: center;
+}
+.cont{
+   border-color: white solid 2px;
+    border-color: rgb(47, 255, 47);
+}

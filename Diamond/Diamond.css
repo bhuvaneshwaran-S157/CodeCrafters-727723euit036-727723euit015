@@ -1,0 +1,29 @@
+.up{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(223, 127, 2);  
+    height: 100px;
+    width: 100px; 
+}
+.Topleft{
+    border-bottom-right-radius: 50px;
+}
+.TopRight{
+    border-bottom-left-radius: 50px;
+}
+.down{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(223, 127, 2);  
+    height: 100px;
+    width: 100px; 
+}
+.Bottomleft{
+    border-top-right-radius: 50px;
+}
+.BottomRight{
+    border-top-left-radius: 50px;
+}
+.whole{
+    background-color: rgb(0, 31, 99);
+}
